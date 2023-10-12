@@ -14,7 +14,7 @@ function main(){   // The main function that is called is the process of convert
 
         console.log(userInput);
 }
-
+  
     function celsiusConversion(){     // This function known as celsius conversion calls the process of converting celsius to fahrenheit 
         
         console.log("celsiusConversion was called");
